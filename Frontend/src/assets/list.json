@@ -1,0 +1,104 @@
+[
+    {
+        "id":1,
+        "name":"Effective Java",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718657431~exp=1718661031~hmac=bccbdde182bbcb9752bbb262fed21bf44a1dfbc4bfca26acf065a1e897e289e5&w=740"
+    },
+    {
+        "id":2,
+        "name":"Learn With Python",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "catagory":"Python",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718657431~exp=1718661031~hmac=bccbdde182bbcb9752bbb262fed21bf44a1dfbc4bfca26acf065a1e897e289e5&w=740"
+    },
+    {
+        "id":3,
+        "name":"C Interfaces and Implementations",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "catagory":"C book",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718657431~exp=1718661031~hmac=bccbdde182bbcb9752bbb262fed21bf44a1dfbc4bfca26acf065a1e897e289e5&w=740"
+    },
+    {
+        "id":4,
+        "name":"Principles and Practice Using C++",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":200,
+        "catagory":"Programminng",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718657431~exp=1718661031~hmac=bccbdde182bbcb9752bbb262fed21bf44a1dfbc4bfca26acf065a1e897e289e5&w=740"
+    },
+    {
+        "id":5,
+        "name":"C Interfaces and Implementations",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":250,
+        "catagory":"Programminng",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718657431~exp=1718661031~hmac=bccbdde182bbcb9752bbb262fed21bf44a1dfbc4bfca26acf065a1e897e289e5&w=740"
+    },
+    {
+        "id":6,
+        "name":"Learn With Python",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "catagory":"Python",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718657431~exp=1718661031~hmac=bccbdde182bbcb9752bbb262fed21bf44a1dfbc4bfca26acf065a1e897e289e5&w=740"
+    },
+    {
+        "id":7,
+        "name":"Effective Java",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718657431~exp=1718661031~hmac=bccbdde182bbcb9752bbb262fed21bf44a1dfbc4bfca26acf065a1e897e289e5&w=740"
+    },
+    {
+        "id":8,
+        "name":"C++ Primer",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718657431~exp=1718661031~hmac=bccbdde182bbcb9752bbb262fed21bf44a1dfbc4bfca26acf065a1e897e289e5&w=740"
+    },
+    {
+        "id":9,
+        "name":"C# Note",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718657431~exp=1718661031~hmac=bccbdde182bbcb9752bbb262fed21bf44a1dfbc4bfca26acf065a1e897e289e5&w=740"
+    },
+    {
+        "id":10,
+        "name":"Python Note",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718657431~exp=1718661031~hmac=bccbdde182bbcb9752bbb262fed21bf44a1dfbc4bfca26acf065a1e897e289e5&w=740"
+    },  {
+        "id":11,
+        "name":"C# Note",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718657431~exp=1718661031~hmac=bccbdde182bbcb9752bbb262fed21bf44a1dfbc4bfca26acf065a1e897e289e5&w=740"
+    },  {
+        "id":12,
+        "name":"Effective Java",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718657431~exp=1718661031~hmac=bccbdde182bbcb9752bbb262fed21bf44a1dfbc4bfca26acf065a1e897e289e5&w=740"
+    },  {
+        "id":13,
+        "name":"C++ Primer",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "catagory":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718657431~exp=1718661031~hmac=bccbdde182bbcb9752bbb262fed21bf44a1dfbc4bfca26acf065a1e897e289e5&w=740"
+    }
+
+]
