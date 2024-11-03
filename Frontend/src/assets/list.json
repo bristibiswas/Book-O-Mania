@@ -20,7 +20,7 @@
         "name":"C Interfaces and Implementations",
         "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "price":0,
-        "catagory":"C book",
+        "catagory":"C++",
         "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718657431~exp=1718661031~hmac=bccbdde182bbcb9752bbb262fed21bf44a1dfbc4bfca26acf065a1e897e289e5&w=740"
     },
     {
@@ -28,12 +28,12 @@
         "name":"Principles and Practice Using C++",
         "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "price":200,
-        "catagory":"Programminng",
+        "catagory":"Java",
         "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718657431~exp=1718661031~hmac=bccbdde182bbcb9752bbb262fed21bf44a1dfbc4bfca26acf065a1e897e289e5&w=740"
     },
     {
         "id":5,
-        "name":"C Interfaces and Implementations",
+        "name":"C#",
         "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "price":250,
         "catagory":"Programminng",
@@ -41,7 +41,7 @@
     },
     {
         "id":6,
-        "name":"Learn With Python",
+        "name":"Python",
         "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "price":0,
         "catagory":"Python",
@@ -49,7 +49,7 @@
     },
     {
         "id":7,
-        "name":"Effective Java",
+        "name":"Eff Java",
         "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "price":0,
         "catagory":"Free",
@@ -57,7 +57,7 @@
     },
     {
         "id":8,
-        "name":"C++ Primer",
+        "name":"C Primer",
         "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "price":0,
         "catagory":"Free",
@@ -73,7 +73,7 @@
     },
     {
         "id":10,
-        "name":"Python Note",
+        "name":"Go Note",
         "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "price":0,
         "catagory":"Free",
@@ -87,7 +87,7 @@
         "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1718657431~exp=1718661031~hmac=bccbdde182bbcb9752bbb262fed21bf44a1dfbc4bfca26acf065a1e897e289e5&w=740"
     },  {
         "id":12,
-        "name":"Effective Java",
+        "name":"Eff Java",
         "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "price":0,
         "catagory":"Free",

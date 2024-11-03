@@ -1,14 +1,16 @@
-import React from 'react';
-import list from "../../src/assets/list.json";
+import React, { useEffect, useState } from 'react';
+import list from '../assets/list.json'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import Cards from './Cards';
 
 const Freebook = () => {
-    const filterData = list.filter((data) => 
-        data.catagory === "Free"
-    );
+
+    const filterdata = list.filter((data)=>data.catagory === "Free")
+
+
+
     var settings = {
         dots: true,
         infinite: false,
@@ -52,12 +54,14 @@ const Freebook = () => {
     <h1 className='text-xl font-semibold pb-2'>Free Offered Books</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eaque eius provident harum necessitatibus iste nostrum porro sint expedita accusantium dolorem minima deleniti dolor sed, tempora, quasi soluta similique. Consequatur, dolorem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, eos dolorem? Vero dolores iste minima voluptas! Expedita distinctio assumenda iusto?</p>
     </div>
+
+  
    
 
 
   <div>
   <Slider {...settings}>
-        {filterData.map((item)=>(
+        {filterdata.map((item)=>(
             <Cards item={item} key={item.id}/>
         ))}
       </Slider>
